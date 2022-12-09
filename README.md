@@ -7,14 +7,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 </p>
 
 ### 사용 툴
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-FF6C37?style=flat&logo=Postman&logoColor=white">
 </p>
 
 
