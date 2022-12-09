@@ -14,7 +14,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-FF6C37?style=flat&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-FF6C37?style=flat&logo=Eclipse&logoColor=white">
 </p>
 
 
